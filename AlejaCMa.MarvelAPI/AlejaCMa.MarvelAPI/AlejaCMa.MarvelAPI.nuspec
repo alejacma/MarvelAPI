@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<package>
+  <metadata>
+    <id>$id$</id>
+    <version>1.0.0-beta006</version>
+    <title>AlejaCMa.MarvelAPI</title>
+    <authors>AlejaCMa</authors>
+    <owners>AlejaCMa</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>A portable library to consume the Marvel API (http://developer.marvel.com/). Supported Platforms: .NET Framework 4.5, Windows 8, Windows Phone 8.1, Windows Phone Silverlight 8, Xamarin.Android, Xamarin.iOS</description>
+	<summary>A portable library to consume the Marvel API</summary>
+    <releaseNotes>It covers all of the Marvel API available up to date (Feb 26th, 2015).</releaseNotes>
+    <copyright>Copyright 2015</copyright>
+    <tags>Portable Marvel API</tags>
+  </metadata>
+</package>

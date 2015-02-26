@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/AlejaCMa.MarvelAPI/AlejaCMa.MarvelAPI/bin
+/AlejaCMa.MarvelAPI/AlejaCMa.MarvelAPI/obj
+/AlejaCMa.MarvelAPI/packages
